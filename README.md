@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently a computer engineering student and I'm in my 3rd year studying in Wroclaw<br>👯 I’m looking to get to know new people and connect with programmers so I can learn new stuff<br>🤝 I’m looking for help with expanding my knowledge <br>🌱 I’m currently taking a path of front-end developer as it's my goal <br>⚡ Success is not final. Failure is not fatal. It’s the courage to continue that count
+🔭 I’m currently a computer engineering graduate living in Wroclaw<br>👯 I’m looking to get to know new people and connect with programmers so I can learn new stuff<br>🤝 I’m looking for help with expanding my knowledge <br>🌱 Success is not final. Failure is not fatal. It’s the courage to continue that count
 
 
 ## 🌐 Socials:
